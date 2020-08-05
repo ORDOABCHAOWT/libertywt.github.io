@@ -558,7 +558,7 @@ nav i.icon-basic-eye {
 }
 .lightnav .navbar-inner.lightnav-alt .nav > li > a,
 .lightnav .navbar-inner.lightnav-alt .learnmore {
-	color: #151515;
+	color: #fff;
 }
 /* Changes nav background color to white on scroll */
 .navbar-inner.lightnav-alt {
